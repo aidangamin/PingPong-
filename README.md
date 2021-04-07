@@ -1,2 +1,4 @@
 # PingPong-
-A discord.py program that can do simple things
+Program Made By : AidanProgramiz
+
+Please Install Discord Module First By Typing In CMD/Console : "pip install discord"
